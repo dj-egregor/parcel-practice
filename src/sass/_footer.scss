@@ -1,0 +1,14 @@
+.page-footer {
+  background-color: rgb(163, 36, 236);
+  height: 200px;
+}
+.social-list {
+  width: 900px;
+  display: flex;
+}
+.social-item + .social-item {
+  margin-left: 50px;
+}
+.social-link {
+  text-decoration: none;
+}
